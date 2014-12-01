@@ -3,10 +3,7 @@
 \alias{rpqueue}
 \title{Create a new empty rpqueue}
 \usage{
-rpqueue(...)
-}
-\arguments{
-\item{...}{additional arguments to be passed to or from methods (ignored).}
+rpqueue()
 }
 \value{
 a new rpqueue.
